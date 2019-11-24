@@ -1,0 +1,20 @@
+/* body{
+    background-color: black;
+    color:white;
+
+}
+#clock{
+    color:blueviolet;
+    font-size: 50px;
+    margin:100px auto;
+    width:200px ;
+color:white
+} */
+
+li{
+    padding:10px;
+    border: 1px solid black;
+    width: 50%;
+    line-height: 0.5px;
+    border-radius: 1px solid red;
+}
